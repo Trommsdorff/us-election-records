@@ -1,0 +1,116 @@
+record,rank,subject,detail,metric,value,unit,year,office,url
+Presidents who won while losing the popular vote,1,John Quincy Adams,lost popular vote to Andrew Jackson,popular-vote deficit (votes),28869,votes,1824,President,https://politifinder.com/election/1824-us-president-general
+Presidents who won while losing the popular vote,2,Rutherford B. Hayes,lost popular vote to Samuel J. Tilden,popular-vote deficit (votes),264292,votes,1876,President,https://politifinder.com/election/1876-us-president-general
+Presidents who won while losing the popular vote,3,Benjamin Harrison,lost popular vote to Grover Cleveland,popular-vote deficit (votes),100456,votes,1888,President,https://politifinder.com/election/1888-us-president-general
+Presidents who won while losing the popular vote,4,George W. Bush,lost popular vote to Al Gore,popular-vote deficit (votes),543895,votes,2000,President,https://politifinder.com/election/2000-us-president-general
+Presidents who won while losing the popular vote,5,Donald Trump,lost popular vote to Hillary Clinton,popular-vote deficit (votes),2868686,votes,2016,President,https://politifinder.com/election/2016-us-president-general
+Biggest presidential landslides,1,Warren G. Harding,def. James M. Cox,popular-vote margin (pts),26.2,points,1920,President,https://politifinder.com/election/1920-us-president-general
+Biggest presidential landslides,2,Calvin Coolidge,def. John W. Davis,popular-vote margin (pts),25.3,points,1924,President,https://politifinder.com/election/1924-us-president-general
+Biggest presidential landslides,3,Franklin D. Roosevelt,def. Alf Landon,popular-vote margin (pts),24.3,points,1936,President,https://politifinder.com/election/1936-us-president-general
+Biggest presidential landslides,4,Richard Nixon,def. George McGovern,popular-vote margin (pts),23.2,points,1972,President,https://politifinder.com/election/1972-us-president-general
+Biggest presidential landslides,5,Lyndon B. Johnson,def. Barry Goldwater,popular-vote margin (pts),22.6,points,1964,President,https://politifinder.com/election/1964-us-president-general
+Biggest presidential landslides,6,Theodore Roosevelt,def. Alton B. Parker,popular-vote margin (pts),18.8,points,1904,President,https://politifinder.com/election/1904-us-president-general
+Biggest presidential landslides,7,Ronald Reagan,def. Walter Mondale,popular-vote margin (pts),18.2,points,1984,President,https://politifinder.com/election/1984-us-president-general
+Biggest presidential landslides,8,Franklin D. Roosevelt,def. Herbert Hoover,popular-vote margin (pts),17.7,points,1932,President,https://politifinder.com/election/1932-us-president-general
+Biggest presidential landslides,9,Herbert Hoover,def. Al Smith,popular-vote margin (pts),17.3,points,1928,President,https://politifinder.com/election/1928-us-president-general
+Biggest presidential landslides,10,Andrew Jackson,def. Henry Clay,popular-vote margin (pts),16.8,points,1832,President,https://politifinder.com/election/1832-us-president-general
+Closest presidential elections,1,James A. Garfield,def. Winfield Scott Hancock,popular-vote margin (pts),0.1,points,1880,President,https://politifinder.com/election/1880-us-president-general
+Closest presidential elections,2,Grover Cleveland,def. James G. Blaine,popular-vote margin (pts),0.2,points,1884,President,https://politifinder.com/election/1884-us-president-general
+Closest presidential elections,3,John F. Kennedy,def. Richard Nixon,popular-vote margin (pts),0.2,points,1960,President,https://politifinder.com/election/1960-us-president-general
+Closest presidential elections,4,Al Gore,def. George W. Bush,popular-vote margin (pts),0.5,points,2000,President,https://politifinder.com/election/2000-us-president-general
+Closest presidential elections,5,Richard Nixon,def. Hubert Humphrey,popular-vote margin (pts),0.7,points,1968,President,https://politifinder.com/election/1968-us-president-general
+Closest presidential elections,6,Grover Cleveland,def. Benjamin Harrison,popular-vote margin (pts),0.8,points,1888,President,https://politifinder.com/election/1888-us-president-general
+Closest presidential elections,7,James K. Polk,def. Henry Clay,popular-vote margin (pts),1.4,points,1844,President,https://politifinder.com/election/1844-us-president-general
+Closest presidential elections,8,Donald Trump,def. Kamala Harris,popular-vote margin (pts),1.5,points,2024,President,https://politifinder.com/election/2024-us-president-general
+Closest presidential elections,9,Jimmy Carter,def. Gerald Ford,popular-vote margin (pts),2.1,points,1976,President,https://politifinder.com/election/1976-us-president-general
+Closest presidential elections,10,Hillary Clinton,def. Donald Trump,popular-vote margin (pts),2.1,points,2016,President,https://politifinder.com/election/2016-us-president-general
+"Most popular votes, single election",1,Joe Biden,Won,popular votes,81283501,votes,2020,President,https://politifinder.com/p/joe-biden
+"Most popular votes, single election",2,Donald Trump,Won,popular votes,77302580,votes,2024,President,https://politifinder.com/p/donald-trump
+"Most popular votes, single election",3,Kamala Harris,Lost,popular votes,75017613,votes,2024,President,https://politifinder.com/p/kamala-harris
+"Most popular votes, single election",4,Donald Trump,Lost,popular votes,74223975,votes,2020,President,https://politifinder.com/p/donald-trump
+"Most popular votes, single election",5,Barack Obama,Won,popular votes,69498516,votes,2008,President,https://politifinder.com/p/barack-obama
+"Most popular votes, single election",6,Barack Obama,Won,popular votes,65915795,votes,2012,President,https://politifinder.com/p/barack-obama
+"Most popular votes, single election",7,Hillary Clinton,Lost,popular votes,65853514,votes,2016,President,https://politifinder.com/p/hillary-clinton
+"Most popular votes, single election",8,Donald Trump,Won,popular votes,62984828,votes,2016,President,https://politifinder.com/p/donald-trump
+"Most popular votes, single election",9,George W. Bush,Won,popular votes,62040610,votes,2004,President,https://politifinder.com/p/george-w-bush
+"Most popular votes, single election",10,Mitt Romney,Lost,popular votes,60933504,votes,2012,President,https://politifinder.com/p/mitt-romney
+Highest popular-vote percentage,1,Lyndon B. Johnson,,popular-vote share (%),61.1,%,1964,President,https://politifinder.com/p/lyndon-b-johnson
+Highest popular-vote percentage,2,Franklin D. Roosevelt,,popular-vote share (%),60.8,%,1936,President,https://politifinder.com/p/franklin-d-roosevelt
+Highest popular-vote percentage,3,Richard Nixon,,popular-vote share (%),60.7,%,1972,President,https://politifinder.com/p/richard-nixon
+Highest popular-vote percentage,4,Warren G. Harding,,popular-vote share (%),60.3,%,1920,President,https://politifinder.com/p/warren-g-harding
+Highest popular-vote percentage,5,Ronald Reagan,,popular-vote share (%),58.8,%,1984,President,https://politifinder.com/p/ronald-reagan
+Highest popular-vote percentage,6,Herbert Hoover,,popular-vote share (%),58.0,%,1928,President,https://politifinder.com/p/herbert-hoover
+Highest popular-vote percentage,7,Dwight D. Eisenhower,,popular-vote share (%),57.4,%,1956,President,https://politifinder.com/p/dwight-d-eisenhower
+Highest popular-vote percentage,8,Franklin D. Roosevelt,,popular-vote share (%),57.3,%,1932,President,https://politifinder.com/p/franklin-d-roosevelt
+Highest popular-vote percentage,9,Theodore Roosevelt,,popular-vote share (%),56.4,%,1904,President,https://politifinder.com/p/theodore-roosevelt
+Highest popular-vote percentage,10,Andrew Jackson,,popular-vote share (%),56.0,%,1828,President,https://politifinder.com/p/andrew-jackson
+"Most electoral votes won, single election",1,Ronald Reagan,,electoral votes,525,electoral votes,1984,President,https://politifinder.com/p/ronald-reagan
+"Most electoral votes won, single election",2,Franklin D. Roosevelt,,electoral votes,523,electoral votes,1936,President,https://politifinder.com/p/franklin-d-roosevelt
+"Most electoral votes won, single election",3,Richard Nixon,,electoral votes,520,electoral votes,1972,President,https://politifinder.com/p/richard-nixon
+"Most electoral votes won, single election",4,Ronald Reagan,,electoral votes,489,electoral votes,1980,President,https://politifinder.com/p/ronald-reagan
+"Most electoral votes won, single election",5,Lyndon B. Johnson,,electoral votes,486,electoral votes,1964,President,https://politifinder.com/p/lyndon-b-johnson
+"Most electoral votes won, single election",6,Franklin D. Roosevelt,,electoral votes,472,electoral votes,1932,President,https://politifinder.com/p/franklin-d-roosevelt
+"Most electoral votes won, single election",7,Dwight D. Eisenhower,,electoral votes,457,electoral votes,1956,President,https://politifinder.com/p/dwight-d-eisenhower
+"Most electoral votes won, single election",8,Franklin D. Roosevelt,,electoral votes,449,electoral votes,1940,President,https://politifinder.com/p/franklin-d-roosevelt
+"Most electoral votes won, single election",9,Herbert Hoover,,electoral votes,444,electoral votes,1928,President,https://politifinder.com/p/herbert-hoover
+"Most electoral votes won, single election",10,Dwight D. Eisenhower,,electoral votes,442,electoral votes,1952,President,https://politifinder.com/p/dwight-d-eisenhower
+Closest U.S. Senate elections,1,Louis C. Wyman,New Hampshire · def. John A. Durkin,margin (pts),0.0,points,1974,U.S. Senate,https://politifinder.com/election/1974-nh-us-senate
+Closest U.S. Senate elections,2,Al Franken,Minnesota · def. Norm Coleman,margin (pts),0.01,points,2008,U.S. Senate,https://politifinder.com/election/2008-mn-us-senate
+Closest U.S. Senate elections,3,Howard W. Cannon,Nevada · def. Paul Laxalt,margin (pts),0.04,points,1964,U.S. Senate,https://politifinder.com/election/1964-nv-us-senate
+Closest U.S. Senate elections,4,Milton R. Young,North Dakota · def. William L. Guy,margin (pts),0.07,points,1974,U.S. Senate,https://politifinder.com/election/1974-nd-us-senate
+Closest U.S. Senate elections,5,Smith W. Brookhart,Iowa · def. Daniel F. Steck,margin (pts),0.08,points,1924,U.S. Senate,https://politifinder.com/election/1924-ia-us-senate
+Closest U.S. Senate elections,6,Harry Reid,Nevada · def. John E. Ensign,margin (pts),0.09,points,1998,U.S. Senate,https://politifinder.com/election/1998-nv-us-senate
+Closest U.S. Senate elections,7,Maria Cantwell,Washington · def. Slade Gorton,margin (pts),0.09,points,2000,U.S. Senate,https://politifinder.com/election/2000-wa-us-senate
+Closest U.S. Senate elections,8,Forrest C. Donnell,Missouri · def. Roy McKittrick,margin (pts),0.12,points,1944,U.S. Senate,https://politifinder.com/election/1944-mo-us-senate
+Closest U.S. Senate elections,9,Rick Scott,Florida · def. Bill Nelson,margin (pts),0.12,points,2018,U.S. Senate,https://politifinder.com/election/2018-fl-us-senate
+Closest U.S. Senate elections,10,Maggie Hassan,New Hampshire · def. Kelly Ayotte,margin (pts),0.14,points,2016,U.S. Senate,https://politifinder.com/election/2016-nh-us-senate
+Closest U.S. House elections,1,Francis X. McCloskey,Indiana · def. Richard D. McIntyre,margin (pts),0.0,points,1984,U.S. House,https://politifinder.com/election/1984-in-08-us-house
+Closest U.S. House elections,2,Mariannette Miller-Meeks,Iowa · def. Rita R Hart,margin (pts),0.0,points,2020,U.S. House,https://politifinder.com/election/2020-ia-02-us-house
+Closest U.S. House elections,3,William E Chambers,Indiana · def. John Roush,margin (pts),0.0,points,1960,U.S. House,https://politifinder.com/election/1960-in-05-us-house
+Closest U.S. House elections,4,John Byrnes,Wisconsin · def. Laverne R Dilweg,margin (pts),0.01,points,1944,U.S. House,https://politifinder.com/election/1944-wi-08-us-house
+Closest U.S. House elections,5,Samuel Gejdenson,Connecticut · def. Edward W. Munster,margin (pts),0.01,points,1994,U.S. House,https://politifinder.com/election/1994-ct-02-us-house
+Closest U.S. House elections,6,James L Reid,Maine · def. James C Oliver,margin (pts),0.02,points,1956,U.S. House,https://politifinder.com/election/1956-me-01-us-house
+Closest U.S. House elections,7,Albert Vestal,Indiana · def. Claude C Ball,margin (pts),0.02,points,1930,U.S. House,https://politifinder.com/election/1930-in-08-us-house
+Closest U.S. House elections,8,Joan Kelly Horn,Missouri · def. Jack Buechner,margin (pts),0.02,points,1990,U.S. House,https://politifinder.com/election/1990-mo-02-us-house
+Closest U.S. House elections,9,James Buckley,Illinois · def. John Gorman,margin (pts),0.03,points,1922,U.S. House,https://politifinder.com/election/1922-il-06-us-house
+Closest U.S. House elections,10,John Patrick Hiler,Indiana · def. Thomas W. Ward,margin (pts),0.03,points,1986,U.S. House,https://politifinder.com/election/1986-in-03-us-house
+Closest governor elections,1,Karl Rolvaag,Minnesota · def. Elmer Andersen,margin (pts),0.0,points,1962,Governor,https://politifinder.com/election/1962-minnesota-governor
+Closest governor elections,2,Christine Gregoire,Washington · def. Dino Rossi,margin (pts),0.0,points,2004,Governor,https://politifinder.com/election/2004-washington-governor
+Closest governor elections,3,George H. Hodges,Kansas · def. Arthur Capper,margin (pts),0.01,points,1912,Governor,https://politifinder.com/election/1912-kansas-governor
+Closest governor elections,4,Payne Ratner,Kansas · def. William H. Burke,margin (pts),0.05,points,1940,Governor,https://politifinder.com/election/1940-kansas-governor
+Closest governor elections,5,G. Mennen Williams,Michigan · def. Harry F. Kelly,margin (pts),0.06,points,1950,Governor,https://politifinder.com/election/1950-michigan-governor
+Closest governor elections,6,Washington Hunt,New York · def. Horatio Seymour,margin (pts),0.06,points,1850,Governor,https://politifinder.com/election/1850-new-york-governor
+Closest governor elections,7,Myron Clark,New York · def. Horatio Seymour,margin (pts),0.06,points,1854,Governor,https://politifinder.com/election/1854-new-york-governor
+Closest governor elections,8,Nathan Goff Jr.,West Virginia · def. Aretas B. Fleming,margin (pts),0.06,points,1888,Governor,https://politifinder.com/election/1888-west-virginia-governor
+Closest governor elections,9,Edward Kent,Maine · def. John Fairfield,margin (pts),0.07,points,1840,Governor,https://politifinder.com/election/1840-maine-governor
+Closest governor elections,10,Albert Ritchie,Maryland · def. Harry Nice,margin (pts),0.07,points,1919,Governor,https://politifinder.com/election/1919-maryland-governor
+Strongest third-party / independent runs,1,Ross Perot,Independent party,popular votes,19743821,votes,1992,President,https://politifinder.com/p/ross-perot
+Strongest third-party / independent runs,2,George Wallace,American Independent party,popular votes,9901118,votes,1968,President,https://politifinder.com/p/george-wallace
+Strongest third-party / independent runs,3,Ross Perot,Reform party,popular votes,8085294,votes,1996,President,https://politifinder.com/p/ross-perot
+Strongest third-party / independent runs,4,John B. Anderson,Independent party,popular votes,5719850,votes,1980,President,https://politifinder.com/p/john-b-anderson
+Strongest third-party / independent runs,5,Robert La Follette,Progressive party,popular votes,4831706,votes,1924,President,https://politifinder.com/p/robert-la-follette
+Strongest third-party / independent runs,6,Theodore Roosevelt,Progressive party,popular votes,4119207,votes,1912,President,https://politifinder.com/p/theodore-roosevelt
+Strongest third-party / independent runs,7,Ralph Nader,Green party,popular votes,2882955,votes,2000,President,https://politifinder.com/p/ralph-nader
+Strongest third-party / independent runs,8,Horace Greeley,Liberal Republican party,popular votes,2835315,votes,1872,President,https://politifinder.com/p/horace-greeley
+Strongest third-party / independent runs,9,Strom Thurmond,States&#x27; Rights (Dixiecrat) party,popular votes,1175930,votes,1948,President,https://politifinder.com/p/strom-thurmond
+Strongest third-party / independent runs,10,James B. Weaver,Populist (People&#x27;s) party,popular votes,1041028,votes,1892,President,https://politifinder.com/p/james-b-weaver
+Youngest U.S. senators ever elected,1,Rush D. Holt,West Virginia,age at election,29,years,1934,U.S. Senate,https://politifinder.com/p/rush-holt
+Youngest U.S. senators ever elected,2,Joe Biden,Delaware,age at election,29,years,1972,U.S. Senate,https://politifinder.com/p/joe-biden
+Youngest U.S. senators ever elected,3,Edward M. Kennedy,Massachusetts,age at election,30,years,1962,U.S. Senate,https://politifinder.com/p/edward-kennedy
+Youngest U.S. senators ever elected,4,Don Nickles,Oklahoma,age at election,31,years,1980,U.S. Senate,https://politifinder.com/p/don-nickles
+Youngest U.S. senators ever elected,5,Russell B. Long,Louisiana,age at election,32,years,1950,U.S. Senate,https://politifinder.com/p/russell-long
+Oldest U.S. senators ever elected,1,Strom Thurmond,South Carolina,age at election,93,years,1996,U.S. Senate,https://politifinder.com/p/strom-thurmond
+Oldest U.S. senators ever elected,2,Charles E. Grassley,Iowa,age at election,89,years,2022,U.S. Senate,https://politifinder.com/p/charles-grassley
+Oldest U.S. senators ever elected,3,Robert C. Byrd,West Virginia,age at election,88,years,2006,U.S. Senate,https://politifinder.com/p/robert-byrd
+Oldest U.S. senators ever elected,4,Theodore F. Green,Rhode Island,age at election,87,years,1954,U.S. Senate,https://politifinder.com/p/theodore-green-rhode-island
+Oldest U.S. senators ever elected,5,Daniel K. Inouye,Hawaii,age at election,86,years,2010,U.S. Senate,https://politifinder.com/p/daniel-inouye
+Most career popular votes (named candidate),1,Donald Trump,"2016-2024, 3 elections",career popular votes (named candidate),214511383,votes,,President,https://politifinder.com/p/donald-trump
+Most career popular votes (named candidate),2,Barack Obama,"2004-2012, 3 elections",career popular votes (named candidate),139011767,votes,,President,https://politifinder.com/p/barack-obama
+Most career popular votes (named candidate),3,Richard Nixon,"1946-1972, 9 elections",career popular votes (named candidate),118117726,votes,,President,https://politifinder.com/p/richard-nixon
+Most career popular votes (named candidate),4,George W. Bush,"1994-2004, 4 elections",career popular votes (named candidate),117398427,votes,,President,https://politifinder.com/p/george-w-bush
+Most career popular votes (named candidate),5,Ronald Reagan,"1966-1984, 4 elections",career popular votes (named candidate),105540789,votes,,President,https://politifinder.com/p/ronald-reagan
+Most career popular votes (named candidate),6,Franklin D. Roosevelt,"1920-1944, 6 elections",career popular votes (named candidate),105190818,votes,,President,https://politifinder.com/p/franklin-d-roosevelt
+Most career popular votes (named candidate),7,Bill Clinton,"1978-1996, 8 elections",career popular votes (named candidate),94875937,votes,,President,https://politifinder.com/p/bill-clinton
+Most career popular votes (named candidate),8,George H. W. Bush,"1964-1992, 7 elections",career popular votes (named candidate),90215034,votes,,President,https://politifinder.com/p/george-h-w-bush
+Most career popular votes (named candidate),9,Kamala Harris,"2016-2024, 3 elections",career popular votes (named candidate),82560366,votes,,President,https://politifinder.com/p/kamala-harris
+Most career popular votes (named candidate),10,Joe Biden,"1972-2020, 10 elections",career popular votes (named candidate),82312443,votes,,President,https://politifinder.com/p/joe-biden

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "U.S. Election Records (PolitiFinder)"
+abstract: >-
+  The most striking records in U.S. election history — biggest landslides, closest
+  races, most votes, the presidents who won while losing the popular vote, the
+  youngest and oldest senators, and more — across President, U.S. Senate, U.S.
+  House, and Governor. One row per record; names and public URLs only. Compiled by
+  PolitiFinder.
+type: dataset
+authors:
+  - name: "PolitiFinder"
+    alias: "137 Finder LLC"
+version: "1.0.1"
+date-released: "2026-06-19"
+license: CC-BY-4.0
+url: "https://politifinder.com/data"
+keywords:
+  - elections
+  - United States
+  - records
+  - popular vote
+  - president
+  - senate
+  - governor
+doi: 10.5281/zenodo.20768539
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20768539
+    description: "Concept DOI (all versions; resolves to the latest)"
+  - type: doi
+    value: 10.5281/zenodo.20768540
+    description: "Version DOI for v1.0.0"

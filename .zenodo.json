@@ -1,0 +1,14 @@
+{
+  "title": "U.S. Election Records (PolitiFinder)",
+  "description": "The most striking records in U.S. election history — biggest landslides, closest races, most votes, the presidents who won while losing the popular vote, the youngest and oldest senators, strongest third-party runs, and career popular-vote leaders (named-candidate basis) — across President, U.S. Senate, U.S. House, and Governor. One row per record; names and public URLs only. Every record reconciles to its page at https://politifinder.com/rankings. Compiled by PolitiFinder (137 Finder LLC).",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "PolitiFinder", "affiliation": "137 Finder LLC" }
+  ],
+  "keywords": ["elections", "United States", "records", "popular vote", "president", "senate", "house", "governor", "political science"],
+  "related_identifiers": [
+    { "identifier": "https://politifinder.com/data", "relation": "isDocumentedBy", "scheme": "url" }
+  ]
+}
