@@ -1,0 +1,41 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "politifinder-us-election-records",
+  "title": "U.S. Election Records — PolitiFinder",
+  "description": "The most striking records in U.S. election history (biggest landslides, closest races, most votes, presidents who won while losing the popular vote, youngest/oldest senators, and more), across President, U.S. Senate, U.S. House, and Governor. One row per record entry; names and public URLs only. Compiled by PolitiFinder (137 Finder LLC).",
+  "version": "1.0.0",
+  "created": "2026-06-19",
+  "homepage": "https://politifinder.com/data",
+  "keywords": ["elections", "United States", "records", "popular vote", "president", "senate", "house", "governor"],
+  "licenses": [
+    { "name": "CC-BY-4.0", "title": "Creative Commons Attribution 4.0 International", "path": "https://creativecommons.org/licenses/by/4.0/" }
+  ],
+  "contributors": [
+    { "title": "PolitiFinder", "organization": "137 Finder LLC", "roles": ["author", "maintainer"] }
+  ],
+  "resources": [
+    {
+      "name": "politifinder_election_records",
+      "path": "politifinder_election_records.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": { "delimiter": ",", "header": true, "lineTerminator": "\r\n" },
+      "schema": {
+        "missingValues": [""],
+        "primaryKey": ["record", "rank"],
+        "fields": [
+          { "name": "record", "type": "string", "description": "The record category, e.g. 'Biggest presidential landslides'." },
+          { "name": "rank", "type": "integer", "description": "1..N within that record." },
+          { "name": "subject", "type": "string", "description": "Candidate name or election (display text)." },
+          { "name": "detail", "type": "string", "description": "Short context, e.g. 'def. James M. Cox' or 'Minnesota · def. Norm Coleman'." },
+          { "name": "metric", "type": "string", "description": "What is measured, e.g. 'popular-vote margin (pts)'." },
+          { "name": "value", "type": "number", "description": "The figure." },
+          { "name": "unit", "type": "string", "constraints": { "enum": ["points", "votes", "%", "electoral votes", "years"] } },
+          { "name": "year", "type": "year", "description": "Election year; blank for career records." },
+          { "name": "office", "type": "string", "constraints": { "enum": ["President", "U.S. Senate", "U.S. House", "Governor"] } },
+          { "name": "url", "type": "string", "format": "uri", "description": "The public PolitiFinder page for that record or candidate." }
+        ]
+      }
+    }
+  ]
+}

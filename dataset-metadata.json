@@ -1,0 +1,27 @@
+{
+  "title": "U.S. Election Records by PolitiFinder",
+  "id": "trommsdorff/us-election-records",
+  "subtitle": "Biggest landslides, closest races, most votes, and more",
+  "description": "By PolitiFinder (https://politifinder.com): the most striking records in U.S. election history across President, U.S. Senate, U.S. House, and Governor.\n\nIncludes ~12 record categories: biggest presidential landslides, closest presidential elections, most popular votes in one election, highest popular-vote percentage, most electoral votes, presidents who won while losing the popular vote, closest U.S. Senate / House / Governor races, strongest third-party and independent runs, youngest and oldest U.S. senators, and career popular-vote leaders (named-candidate basis).\n\nOne row per record (115 total). Names and public PolitiFinder links only - no underlying race-by-race data. Career totals count a person only as the named candidate; running-mate (vice-presidential) ticket votes are excluded.\n\nProvenance: derived from PolitiFinder's compilation of official U.S. election results (FEC, the Clerk of the U.S. House, the MIT Election Data and Science Lab, the Constituency-Level Elections Archive, official state canvasses, ICPSR, and A New Nation Votes). Every record reconciles to its page at https://politifinder.com/rankings. Updated after each general election. Licensed CC BY 4.0.",
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "keywords": ["united states", "politics", "history", "social science"],
+  "resources": [
+    {
+      "path": "politifinder_election_records.csv",
+      "description": "115 records across ~12 categories (one row per record entry).",
+      "schema": { "fields": [
+        { "name": "record", "type": "string", "description": "The record category, e.g. 'Biggest presidential landslides'." },
+        { "name": "rank", "type": "number", "description": "Position within that record (1..N)." },
+        { "name": "subject", "type": "string", "description": "Candidate name or election the record is about (display text)." },
+        { "name": "detail", "type": "string", "description": "Short context, e.g. 'def. James M. Cox' or 'Minnesota - def. Norm Coleman'." },
+        { "name": "metric", "type": "string", "description": "What is measured, e.g. 'popular-vote margin (pts)'." },
+        { "name": "value", "type": "number", "description": "The figure for the metric." },
+        { "name": "unit", "type": "string", "description": "Unit of the value: points, votes, %, electoral votes, or years." },
+        { "name": "year", "type": "number", "description": "Election year (blank for career records)." },
+        { "name": "office", "type": "string", "description": "President, U.S. Senate, U.S. House, or Governor." },
+        { "name": "url", "type": "string", "description": "Public PolitiFinder page for that record or candidate." }
+      ] }
+    },
+    { "path": "politifinder_election_records.json", "description": "JSON copy of the same 115 records." }
+  ]
+}
