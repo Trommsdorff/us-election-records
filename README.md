@@ -16,7 +16,7 @@ Compiled by [PolitiFinder](https://politifinder.com) (137 Finder LLC). Licensed
 |---|---|
 | **File** | `politifinder_election_records.csv` (+ `.json`) |
 | **Rows** | 115 (one per record entry, ~12 record categories) |
-| **Version** | 1.0.0 · data current as of 2026-06-19 |
+| **Version** | 1.0.2 · data current as of 2026-11-06 |
 | **License** | CC BY 4.0 |
 | **Landing page** | https://politifinder.com/data |
 
@@ -65,13 +65,40 @@ https://politifinder.com/methodology and `NOTICE.md`.
 
 ## How to cite
 
-PolitiFinder. (2026). *U.S. Election Records* (Version 1.0.0) [Data set]. 137 Finder
+PolitiFinder. (2026). *U.S. Election Records* (Version 1.0.2) [Data set]. 137 Finder
 LLC. https://politifinder.com/data
 
 Attribution (CC BY 4.0):
 
 > Data source: U.S. Election Records by PolitiFinder (politifinder.com), licensed
 > under CC BY 4.0.
+
+## Changelog
+
+- **1.0.2 (2026-11-06):** Four record lists changed; the other nine are identical
+  to 1.0.1. The three all-time closest lists (U.S. House, U.S. Senate, governor) are
+  now ranked by the exact vote margin, winner's votes minus runner-up's, with ties
+  broken by the gap in vote share; their `metric` is now "vote margin (votes)" and
+  `value` is that vote count. In 1.0.1 they were ranked by the share gap rounded to
+  two decimals, so races decided by 4 and by 12 votes both read 0.00 and their order
+  was arbitrary. Closest House now runs Indiana 1984 (4 votes), Iowa 2020 (6),
+  Indiana 1930 (9), Wisconsin 1944 (11), Indiana 1960 (12); Ohio 1900, Colorado 1952
+  and Illinois 1930 enter, Missouri 1990, Illinois 1922 and Indiana 1986 leave.
+  Closest Senate: New Hampshire 1974 (2 votes), Nevada 1964 (48), North Dakota 1974
+  (186), Minnesota 2008 (312); Delaware 1922, South Dakota 2002, Utah 1922, South
+  Dakota 1962 and Nevada 1974 enter, Iowa 1924, Washington 2000, Missouri 1944,
+  Florida 2018 and New Hampshire 2016 leave. Closest governor: Kansas 1912 (29 votes)
+  is now first, ahead of Maine 1840 (67), New Hampshire 1856 (88) and Minnesota 1962
+  (91); New Hampshire 1856 and 1890, Connecticut 1871 and Wisconsin 1857 and 1855
+  enter, Kansas 1940, Michigan 1950, New York 1850 and 1854 and Maryland 1919 leave.
+  "Strongest third-party / independent runs" now includes Gary Johnson (2016,
+  4,489,341 votes) and Jo Jorgensen (2020, 1,865,535 votes), from the FEC-official
+  third-party totals for 2004–2024 that PolitiFinder added after 1.0.1; Strom
+  Thurmond (1948) and James B. Weaver (1892) drop out of the top 10 by raw vote
+  count. No 2026 results: they enter as each state certifies.
+- **1.0.1:** Version bump on Zenodo only (1.0.0's record was tombstoned and
+  reissued); file contents unchanged from 1.0.0.
+- **1.0.0 (2026-06-19):** Initial release.
 
 ## License
 

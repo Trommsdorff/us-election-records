@@ -3,7 +3,7 @@
   "name": "politifinder-us-election-records",
   "title": "U.S. Election Records — PolitiFinder",
   "description": "The most striking records in U.S. election history (biggest landslides, closest races, most votes, presidents who won while losing the popular vote, youngest/oldest senators, and more), across President, U.S. Senate, U.S. House, and Governor. One row per record entry; names and public URLs only. Compiled by PolitiFinder (137 Finder LLC).",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "created": "2026-06-19",
   "homepage": "https://politifinder.com/data",
   "keywords": ["elections", "United States", "records", "popular vote", "president", "senate", "house", "governor"],
