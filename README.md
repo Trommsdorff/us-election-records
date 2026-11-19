@@ -16,7 +16,7 @@ Compiled by [PolitiFinder](https://politifinder.com) (137 Finder LLC). Licensed
 |---|---|
 | **File** | `politifinder_election_records.csv` (+ `.json`) |
 | **Rows** | 115 (one per record entry, ~12 record categories) |
-| **Version** | 1.0.2 · data current as of 2026-11-06 |
+| **Version** | 1.0.3 · data current as of 2026-11-19 |
 | **License** | CC BY 4.0 |
 | **Landing page** | https://politifinder.com/data |
 
@@ -65,7 +65,7 @@ https://politifinder.com/methodology and `NOTICE.md`.
 
 ## How to cite
 
-PolitiFinder. (2026). *U.S. Election Records* (Version 1.0.2) [Data set]. 137 Finder
+PolitiFinder. (2026). *U.S. Election Records* (Version 1.0.3) [Data set]. 137 Finder
 LLC. https://politifinder.com/data
 
 Attribution (CC BY 4.0):
@@ -75,6 +75,15 @@ Attribution (CC BY 4.0):
 
 ## Changelog
 
+- **1.0.3 (2026-11-19):** One record list changed; the other twelve are identical to
+  1.0.2. "Strongest third-party / independent runs": Horace Greeley (1872) leaves the
+  list. He was the Liberal Republican nominee and the Democratic convention also
+  nominated him, so PolitiFinder now counts him as the Democratic nominee, as it counts
+  any major party's nominee carried on another line. Jo Jorgensen (2020) moves to 9th and
+  Jill Stein (2016, 1,457,218 votes) enters at 10th. PolitiFinder also added the
+  third-party and independent presidential candidates of 1920-2020 with at least 400,000
+  votes that it had not recorded, from the Clerk of the House's election statistics and
+  the FEC's Federal Elections reports; none of them reaches this top 10.
 - **1.0.2 (2026-11-06):** Four record lists changed; the other nine are identical
   to 1.0.1. The three all-time closest lists (U.S. House, U.S. Senate, governor) are
   now ranked by the exact vote margin, winner's votes minus runner-up's, with ties

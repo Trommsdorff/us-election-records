@@ -1118,18 +1118,6 @@
   {
     "record": "Strongest third-party / independent runs",
     "rank": 9,
-    "subject": "Horace Greeley",
-    "detail": "Liberal Republican party",
-    "metric": "popular votes",
-    "value": 2835315,
-    "unit": "votes",
-    "year": 1872,
-    "office": "President",
-    "url": "https://politifinder.com/p/horace-greeley"
-  },
-  {
-    "record": "Strongest third-party / independent runs",
-    "rank": 10,
     "subject": "Jo Jorgensen",
     "detail": "Libertarian party",
     "metric": "popular votes",
@@ -1138,6 +1126,18 @@
     "year": 2020,
     "office": "President",
     "url": "https://politifinder.com/p/jo-jorgensen"
+  },
+  {
+    "record": "Strongest third-party / independent runs",
+    "rank": 10,
+    "subject": "Jill Stein",
+    "detail": "Green party",
+    "metric": "popular votes",
+    "value": 1457218,
+    "unit": "votes",
+    "year": 2016,
+    "office": "President",
+    "url": "https://politifinder.com/p/jill-stein-massachusetts"
   },
   {
     "record": "Youngest U.S. senators ever elected",
