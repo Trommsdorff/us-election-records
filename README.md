@@ -16,7 +16,7 @@ Compiled by [PolitiFinder](https://politifinder.com) (137 Finder LLC). Licensed
 |---|---|
 | **File** | `politifinder_election_records.csv` (+ `.json`) |
 | **Rows** | 115 (one per record entry, ~12 record categories) |
-| **Version** | 1.0.3 · data current as of 2026-11-19 |
+| **Version** | 1.0.4 · data current as of 2026-11-27 |
 | **License** | CC BY 4.0 |
 | **Landing page** | https://politifinder.com/data |
 
@@ -65,7 +65,7 @@ https://politifinder.com/methodology and `NOTICE.md`.
 
 ## How to cite
 
-PolitiFinder. (2026). *U.S. Election Records* (Version 1.0.3) [Data set]. 137 Finder
+PolitiFinder. (2026). *U.S. Election Records* (Version 1.0.4) [Data set]. 137 Finder
 LLC. https://politifinder.com/data
 
 Attribution (CC BY 4.0):
@@ -75,6 +75,13 @@ Attribution (CC BY 4.0):
 
 ## Changelog
 
+- **1.0.4 (2026-11-27):** Two record lists changed; the other eleven are identical to
+  1.0.3, and no record moved. "Closest U.S. House elections" #5 (Indiana 1960, 12
+  votes) now names its winner George O. Chambers, the name on his profile since the
+  two men stored as one were separated; 1.0.3 printed "William E Chambers".
+  "Highest popular-vote percentage": Herbert Hoover (1928) and Andrew Jackson (1828)
+  read 58 and 56 in both files; the CSV printed 58.0 and 56.0, which a JSON reader
+  reads as 58 and 56. Same figures, now printed alike.
 - **1.0.3 (2026-11-19):** One record list changed; the other twelve are identical to
   1.0.2. "Strongest third-party / independent runs": Horace Greeley (1872) leaves the
   list. He was the Liberal Republican nominee and the Democratic convention also

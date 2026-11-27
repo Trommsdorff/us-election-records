@@ -11,8 +11,8 @@ type: dataset
 authors:
   - name: "PolitiFinder"
     alias: "137 Finder LLC"
-version: "1.0.3"
-date-released: "2026-11-19"
+version: "1.0.4"
+date-released: "2026-11-27"
 license: CC-BY-4.0
 url: "https://politifinder.com/data"
 keywords:
